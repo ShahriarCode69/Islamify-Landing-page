@@ -16,8 +16,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github code](https://github.com/ShahriarCode69/Islamify-Landing-page)
+- Live Site URL: [Live demo](https://islamify.netlify.app/)
 
 
 ### Built with
