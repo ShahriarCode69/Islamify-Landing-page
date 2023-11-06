@@ -10,8 +10,8 @@
 
 ### Screenshot
 
-![](./design/Screenshot%202023-11-06%20at%2011-13-05%20Islamify.png.jpg)
-![](./design/Screenshot%202023-11-06%20at%2011-13-05%20Islamify.png.jpg)
+![](./design/desktop.png)
+![](./design/mobile.png)
 
 
 ### Links
